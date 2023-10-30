@@ -1,0 +1,136 @@
+* {
+  margin: 2px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body {
+  height: auto;
+  width: 95vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 7rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.calculator {
+  height: 23rem;
+  width: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(219, 215, 215);
+}
+
+.calculations {
+  height: 3rem;
+  width: 15rem;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.buttons {
+  padding-top: 1.3rem;
+  width: 15rem;
+  height: 17rem;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+}
+
+.c {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.add {
+  width: 2.9rem;
+  cursor: pointer;
+  background-color: rgb(219, 215, 215);
+}
+
+.seven {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.eight {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.nine {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.subtract {
+  width: 2.9rem;
+  cursor: pointer;
+  background-color: rgb(219, 215, 215);
+}
+
+.four {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.five {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.six {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.multiply {
+  width: 2.9rem;
+  cursor: pointer;
+  background-color: rgb(219, 215, 215);
+}
+
+.one {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.two {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.three {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.divide {
+  width: 2.9rem;
+  cursor: pointer;
+  background-color: rgb(219, 215, 215);
+}
+
+.zero {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.dot {
+  width: 2.9rem;
+  cursor: pointer;
+}
+
+.equal {
+  width: 2.9rem;
+  cursor: pointer;
+  background-color: rgb(34, 129, 238);
+  color: white;
+}
+
+
+
